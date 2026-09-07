@@ -1,0 +1,143 @@
+---
+title: "FIA Workshop Resources"
+format:
+  html:
+    theme: none
+---
+_Last updated: September 7, 2026_
+
+<style>
+body {
+  font-family: Arial, sans-serif;
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 20px;
+  line-height: 1.6;
+  background-color: #f7f9fc;
+  color: #333;
+}
+
+h1 {
+  color: #003366;
+  border-bottom: 3px solid #003366;
+  padding-bottom: 10px;
+}
+
+.intro {
+  margin-bottom: 30px;
+}
+
+.resource-list {
+  list-style: none;
+  padding: 0;
+}
+
+.resource-list li {
+  background: white;
+  margin-bottom: 12px;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+}
+
+.resource-list a {
+  text-decoration: none;
+  color: #0056b3;
+  font-weight: bold;
+}
+
+.resource-list a:hover {
+  text-decoration: underline;
+}
+
+.file-type {
+  color: #666;
+  font-size: 0.9em;
+}
+
+footer {
+  margin-top: 40px;
+  font-size: 0.9em;
+  color: #666;
+  text-align: center;
+}
+</style>
+
+<div class="intro">
+
+Welcome to the FIA workshop resource repository. Download macros, datasets,
+presentations, and supporting articles using the links below.
+
+</div>
+
+<ul class="resource-list">
+
+<li>
+  <a href="https://www.routledge.com/An-Introduction-to-Quantitative-Research-Methods-for-Marketing-Tools-and-Techniques-Using-SPSS-and-R/Daryanto/p/book/9781032525648"
+     target="_blank">
+    📘 Daryanto (2024): An Introduction to Quantitative Research Methods for Marketing
+  </a>
+  <div class="file-type">Book (Routledge)</div>
+</li>
+
+<li>
+  <a href="https://www.tqmp.org/RegularArticles/vol16-1/p056/" target="_blank">
+    📄 Daryanto (2020): Endogeneity
+  </a>
+  <div class="file-type">PDF Article (TQMP)</div>
+</li>
+
+<li>
+  <a href="https://www.tqmp.org/Vignettes/vol16-5/v008/index.html" target="_blank">
+    📄 Daryanto (2020): Heteroskedasticity
+  </a>
+  <div class="file-type">PDF Article (TQMP)</div>
+</li>
+
+<li>
+<a href="Endogeneity.pptx">
+Endogeneity Presentation
+</a>
+<div class="file-type">PowerPoint Presentation</div>
+</li>
+
+<li>
+<a href="Heteroskedasticity.ptx.pptx">
+Heteroskedasticity Presentation
+</a>
+<div class="file-type">PowerPoint Presentation</div>
+</li>
+
+<li>
+<a href="Mroz.sav">
+Mroz Dataset
+</a>
+<div class="file-type">SPSS Dataset (.sav)</div>
+</li>
+
+<li>
+<a href="barbershop.sav">
+Barbershop Dataset
+</a>
+<div class="file-type">SPSS Dataset (.sav)</div>
+</li>
+
+<li>
+<a href="satisfaction.sav">
+Satisfaction Dataset
+</a>
+<div class="file-type">SPSS Dataset (.sav)</div>
+</li>
+
+<li>
+<a href="slotegraaf.sav">
+Slotegraaf Dataset
+</a>
+<div class="file-type">SPSS Dataset (.sav)</div>
+</li>
+
+</ul>
+
+<footer>
+FIA Workshop Resources • Maintained by Ahmad Daryanto
+</footer>
