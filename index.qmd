@@ -141,8 +141,8 @@ presentations, macros, and supporting articles.
 
 
 <div class="workshop-info">
-<strong>Workshop:</strong>> September 9, 2026<br>
-<strong>Venue:</strong> Faculty of Administrative Science (FIA), Brawijaya University
+<strong>Workshop:</strong> September 9, 2026<br>
+<strong>Venue:</strong> Faculty of Administrative Science (FIA), Brawijaya University, Malang, Indonesia.
 </div>
 
 <ul class="resource-list">
