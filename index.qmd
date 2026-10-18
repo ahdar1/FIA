@@ -136,6 +136,7 @@ presentations, macros, and supporting articles.
    Visit My Website
 </a>
 
+
 </div>
 </div>
 
@@ -144,6 +145,9 @@ presentations, macros, and supporting articles.
 <strong>Workshop:</strong> September 9, 2026<br>
 <strong>Venue:</strong> Faculty of Administrative Science (FIA), Brawijaya University, Malang, Indonesia.
 </div>
+
+
+<!--
 
 <ul class="resource-list">
 
@@ -202,6 +206,8 @@ target="_blank" rel="noopener noreferrer">
 </li>
 
 </ul>
+
+-->
 
 <footer>
 FIA Workshop Resources • Maintained by Ahmad Daryanto
